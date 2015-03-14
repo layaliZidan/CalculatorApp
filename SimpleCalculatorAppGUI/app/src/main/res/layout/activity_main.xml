@@ -44,8 +44,7 @@
             android:textColor="#ffffffff"
             android:textSize="30sp"
             android:padding="5dp"
-            android:layout_margin="5dp"
-            android:onClick="onClick_clear" />
+            android:layout_margin="5dp"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -55,8 +54,7 @@
             android:textColor="#ffffffff"
             android:textSize="30sp"
             android:padding="5dp"
-            android:layout_margin="5dp"
-            android:onClick="onClick_clearMemory" />
+            android:layout_margin="5dp"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -66,8 +64,7 @@
             android:textColor="#ffffffff"
             android:textSize="30sp"
             android:padding="5dp"
-            android:layout_margin="5dp"
-            android:onClick="onClick_recall" />
+            android:layout_margin="5dp"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -77,8 +74,7 @@
             android:textColor="#ffffffff"
             android:textSize="30sp"
             android:padding="5dp"
-            android:layout_margin="5dp"
-            android:onClick="onClick_memory" />
+            android:layout_margin="5dp"/>
 
 
 
